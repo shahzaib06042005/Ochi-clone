@@ -2,8 +2,7 @@
 
 This is a clone of the website [ochi.design](https://ochi.design) created as a frontend/UI-focused project. The goal was to replicate the design, animations, and responsiveness of the original site, while making some custom changes to demonstrate creativity and personal learning.
 
-## 🚀 Live Demo
-You can view the live version of the project here: [Your Live Link](#)
+
 
 ---
 
