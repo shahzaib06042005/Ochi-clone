@@ -1,31 +1,36 @@
-#  **Ochi Design Dark Theme Clone with React, Vite, Tailwind CSS, Locomotive Scroll, and GSAP**
+# Ochi.design Website Clone 🎨
 
-[Project Preview](https://mooosakhan.github.io/ochi.design_clone/)
+This is a clone of the website [ochi.design](https://ochi.design) created as a frontend/UI-focused project. The goal was to replicate the design, animations, and responsiveness of the original site, while making some custom changes to demonstrate creativity and personal learning.
 
-### 🌟 Description
-Recreated the captivating **ochi.design** website with a sleek dark theme using React, Vite, Tailwind CSS, Locomotive Scroll for smooth scrolling effects, and GSAP for engaging animations. This project mirrors the original's aesthetic while  offering a modern dark mode experience, enhanced with seamless transitions and eye-catching animations.
+## 🚀 Live Demo
+You can view the live version of the project here: [Your Live Link](#)
 
-### ✨ Features
-- **Dark Mode:** Enhanced usability in low-light environments with a stylish dark color palette. 
-- **Responsive Design:** Ensured seamless performance across various devices and screen sizes.
-- **Tailwind CSS:** Streamlined styling with Tailwind CSS utility-first framework for rapid development.
-- **Locomotive Scroll:** Implemented smooth scrolling with Locomotive Scroll for a polished user experience.
-- **GSAP Animations:** Utilized GSAP for stunning animations that bring the interface to life.
-- **Component Reusability:** Leveraged React's component-based architecture for scalability and code maintainability.
-- **Optimized Build:** Utilized Vite for fast refresh and optimized production builds.
+---
 
-### 🚀 Technologies Used
-React, Vite, Tailwind CSS, Locomotive Scroll, GSAP, JavaScript, HTML5, CSS3
+## 📌 Project Features
 
-### 📝 How to Use
-1. **Clone the repository:** `[https://github.com/mooosakhan/ochi.design_clone.git]`
-2. **Install dependencies:** `npm install`
-3. **Start the development server:** `npm run dev`
-4. **Open** `localhost:3000` **in your browser.**
+- Pixel-perfect layout inspired by ochi.design
+- Custom transitions and scroll-based animations
+- Responsive design (mobile/tablet/desktop)
+- Clean and modern UI/UX
+- Minor customizations from original design (content/colors/sections)
 
-### 🤝 Contributions
-Contributions are welcome! Feel free to fork the repository and submit pull requests for enhancements or bug fixes.
+---
 
-### 🙏 Acknowledgments
-- Original design inspiration from [ochi.design](https://ochi.design)
-- Built with ❤️ by Shahzaib
+## 🛠️ Tech Stack Used
+
+### 🧑‍💻 Frontend:
+- **React.js** – Core framework
+- **Vite** or **Create React App** – For fast dev environment
+- **Framer Motion** – Page transitions and smooth animations
+- **GSAP** (optional) – For scroll animations
+- **Tailwind CSS** – Utility-first styling (or custom CSS if used)
+- **React Router** – For page routing (if applicable)
+
+### 🔧 Tools & Others:
+- **Figma** – UI inspection and planning (optional)
+- **VS Code** – Development environment
+- **Git & GitHub** – Version control and deployment
+
+---
+
