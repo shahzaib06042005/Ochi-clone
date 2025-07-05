@@ -1,4 +1,4 @@
-# 🌙 **ochi.design Dark Theme Clone with React, Vite, Tailwind CSS, Locomotive Scroll, and GSAP**
+#  **Ochi Design Dark Theme Clone with React, Vite, Tailwind CSS, Locomotive Scroll, and GSAP**
 
 [Project Preview](https://mooosakhan.github.io/ochi.design_clone/)
 
@@ -28,4 +28,4 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ### 🙏 Acknowledgments
 - Original design inspiration from [ochi.design](https://ochi.design)
-- Built with ❤️ by Moosa 
+- Built with ❤️ by Shahzaib
